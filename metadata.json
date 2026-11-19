@@ -1,0 +1,6 @@
+{
+  "name": "EchoEpisodes – Regional Radio",
+  "description": "Discover, search, bookmark, and stream Indian regional-language podcasts across Hindi, Tamil, Telugu, Malayalam, Bengali, Marathi, and Kannada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
